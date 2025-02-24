@@ -22,7 +22,7 @@
 		return nil;
 	}
 	if ([r isEqualToString:@"订单与卡包"]) {
-		return @"卡包";
+		return @"订单";
 	}
 	if ([r isEqualToString:@"支付与服务"]) {
 		return @"服务";
